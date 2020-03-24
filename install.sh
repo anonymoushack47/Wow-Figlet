@@ -5,8 +5,6 @@ cd
 echo "\033[1;93m#welcome"
 figlet  "Hello"
 echo ""
-apt update
-apt upgrade
 echo "$(tput setaf 5) Subscribe my Anonymous Hack47 YT channel For more Termux videos "
 echo ""
 echo "$(tput setaf 10) Installing FIGLET......."
