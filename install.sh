@@ -4,3 +4,6 @@ apt install cowsay -y
 apt install nodejs -y
 npm install figlet
 npm install -g figlet-cli
+cd
+cd Wow-Figlet
+sh files.sh
